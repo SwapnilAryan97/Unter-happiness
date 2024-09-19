@@ -1,1 +1,21 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Database
+backend/data.db
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+frontend/build
+backend/build
 backend/node_modules
+frontend/node_modules
