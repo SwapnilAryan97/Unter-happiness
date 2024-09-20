@@ -1,3 +1,5 @@
+# Author - Swapnil Sinha
+
 # Unter-happiness
 
 ### Running the project file
@@ -348,3 +350,5 @@ To modify the data model to accommodate drivers leaving 1-5 star reviews for pas
 - **Immediate Update**: Ratings are recorded and accumulated ratings are updated immediately after the ride ends.
 
 ---
+
+# Author - Swapnil Sinha
