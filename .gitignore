@@ -8,7 +8,8 @@ logs
 npm-debug.log*
 
 # Database
-backend/data.db
+backend/*.db
+*.db
 
 # OS Files
 .DS_Store

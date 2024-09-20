@@ -1,5 +1,20 @@
 # Unter-happiness
 
+### Running the project file
+
+From the root directory:
+
+```bash
+chmod +x run.sh
+./run.sh install
+./run.sh build
+./run.sh start
+```
+
+---
+
+# Unter
+
 To design a data model for the "Unter" taxi platform, we'll identify the key entities, define their relationships, and create tables to accommodate all the system requirements efficiently.
 
 ---
